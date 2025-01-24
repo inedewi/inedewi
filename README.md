@@ -1,5 +1,4 @@
-- 'Code more, worry less' is a philosophy I carry now in my life.
--  Here is my learning journal.
+'Code more, worry less' is a philosophy I carry now in my life. And here is my learning journal.
 
 
 <!---
